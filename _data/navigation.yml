@@ -3,7 +3,7 @@ main:
   - title: "Welcome to the Site"
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Science Program"
-      url: /docs/quick-start-guide
+      url: /docs/quick-start-guide/
   - title: "Registration"
   #   url: /year-archive/
   - title: "Abstract Submission"
